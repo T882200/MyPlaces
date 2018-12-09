@@ -1,0 +1,3 @@
+rootProject.name = 'aweproj'
+
+include ':app'
