@@ -7,6 +7,21 @@ import PlaceList from "./src/components/PlaceList/PlaceList";
 import PlaceImage from "./assets/mbc.jpg";
 import PlaceDetail from "./src/components/PlaceDetail/PlaceDetail";
 
+// import { Provider } from 'react-redux';
+// import { createStore } from 'redux';
+// import configureStore from './src/store/configureStore';
+
+// const store = configureStore();
+// const RNRedux = (
+//   <Provider store={store}>
+//     <App />
+//   </Provider>
+// )
+
+
+
+
+
 export default class App extends Component {
   state = {
     places: [],
